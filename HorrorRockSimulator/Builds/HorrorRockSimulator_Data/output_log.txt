@@ -9,6 +9,8 @@ Direct3D:
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
@@ -17,7 +19,7 @@ Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\Horror
 Loading C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.052 seconds
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Jonathan\Documents\GitHub\HorrorRockSimulator\HorrorRockSimulator\Builds\HorrorRockSimulator_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
@@ -26,11 +28,11 @@ desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initialized touch support.
 WARNING: Shader Unsupported: 'Hidden/Kino/Fog' - Pass '' has no vertex shader
 WARNING: Shader Unsupported: 'Hidden/Kino/Fog' - Setting to default shader.
-UnloadTime: 1.212877 ms
+UnloadTime: 1.204081 ms
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 3b4 -> priority: 1 
-  Thread -> id: 20fc -> priority: 1 
-  Thread -> id: 1d08 -> priority: 1 
-  Thread -> id: c8 -> priority: 1 
-  Thread -> id: 334 -> priority: 1 
-  Thread -> id: 7ac -> priority: 1 
+  Thread -> id: 1f58 -> priority: 1 
+  Thread -> id: 1f54 -> priority: 1 
+  Thread -> id: 9d8 -> priority: 1 
+  Thread -> id: d58 -> priority: 1 
+  Thread -> id: 19ec -> priority: 1 
+  Thread -> id: 15c8 -> priority: 1 
